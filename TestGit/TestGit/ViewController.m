@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次提交代码到git");
+    NSLog(@"第二次提交代码到git");
 }
 
 
