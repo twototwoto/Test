@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"第一次提交代码到git");
     NSLog(@"第二次提交代码到git");
+    NSLog(@"创建并且切换到新的分支newBranch 提交信息");
+    
 }
 
 
