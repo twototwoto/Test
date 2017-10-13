@@ -24,6 +24,8 @@
     /**
      *newBranch 3次提交
      *新建立devBranchgit branch devBranch -> 切换分支：git checkout devBranch 
+     git checkout devBranch
+     
      
      */
     
