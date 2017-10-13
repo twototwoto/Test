@@ -23,6 +23,8 @@
     NSLog(@"再次切换到newBranch:git checkout newBranch");
     /**
      *newBranch 3次提交
+     *新建立devBranchgit branch devBranch -> 切换分支：git checkout devBranch 
+     
      */
     
 }
